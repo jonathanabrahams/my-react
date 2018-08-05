@@ -3,6 +3,8 @@ import './App.css';
 
 import logo from './logo.svg';
 
+import Button from './components/button'
+
 class App extends React.Component {
   public render() {
     return (
@@ -12,7 +14,7 @@ class App extends React.Component {
           <h1 className="App-title">Welcome to React</h1>
         </header>
         <p className="App-intro">
-          It starts here!
+          <Button />
         </p>
       </div>
     );
