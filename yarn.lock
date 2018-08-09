@@ -16,6 +16,9 @@
     esutils "^2.0.2"
     js-tokens "^3.0.0"
 
+"@components/kit@file:src/components":
+  version "0.0.1"
+
 "@types/history@*":
   version "4.7.0"
   resolved "https://registry.yarnpkg.com/@types/history/-/history-4.7.0.tgz#2fac51050c68f7d6f96c5aafc631132522f4aa3f"

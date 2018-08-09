@@ -3,7 +3,7 @@ import './App.css';
 
 import logo from './logo.svg';
 
-import Button from './components/button'
+import Button from '@components/kit/button'
 
 class App extends React.Component {
   public render() {

@@ -1,3 +1,4 @@
 {
-	"name" : "@components"
+	"name": "@components/kit",
+	"version": "0.0.1"
 }
